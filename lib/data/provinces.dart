@@ -1,0 +1,25 @@
+import 'package:latlong2/latlong.dart';
+
+final Map<String, LatLng> provinces = {
+  'Улаанбаатар': const LatLng(47.908, 106.883),
+  'Ховд': const LatLng(48.006, 91.642),
+  'Баянхонгор': const LatLng(46.0445, 100.7436),
+  'Сүхбаатар': const LatLng(50.2367, 106.2089),
+  'Завхан': const LatLng(48.0056, 96.7886),
+  'Хэнтий': const LatLng(47.3236, 110.6666),
+  'Дорнод': const LatLng(47.7405, 114.5070),
+  'Дундговь': const LatLng(45.7582, 106.2632),
+  'Булган': const LatLng(48.8120, 103.5347),
+  'Архангай': const LatLng(47.4987, 101.0060),
+  'Хөвсгөл': const LatLng(50.3273, 100.1647),
+  'Төв': const LatLng(47.6472, 106.4183),
+  'Орхон': const LatLng(49.0214, 104.0436),
+  'Дархан-Уул': const LatLng(49.4866, 105.9220),
+  'Говь-Алтай': const LatLng(46.1426, 95.9332),
+  'Өмнөговь': const LatLng(43.7070, 104.3757),
+  'Говьсүмбэр': const LatLng(46.1950, 108.3583),
+  'Дорноговь': const LatLng(44.8406, 110.1517),
+  'Увс': const LatLng(49.981, 92.067),
+  'Сэлэнгэ': const LatLng(50.2586, 106.0277),
+  'Баян-Өлгий': const LatLng(48.0150, 89.9678),
+};
